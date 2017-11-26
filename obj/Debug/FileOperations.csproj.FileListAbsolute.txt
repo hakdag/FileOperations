@@ -1,0 +1,5 @@
+C:\Users\De Bug\Documents\Visual Studio 2017\Projects\FileOperations\Build\FileOperations.dll
+C:\Users\De Bug\Documents\Visual Studio 2017\Projects\FileOperations\Build\FileOperations.pdb
+C:\Users\De Bug\Documents\Visual Studio 2017\Projects\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\De Bug\Documents\Visual Studio 2017\Projects\FileOperations\FileOperations\obj\Debug\FileOperations.dll
+C:\Users\De Bug\Documents\Visual Studio 2017\Projects\FileOperations\FileOperations\obj\Debug\FileOperations.pdb
